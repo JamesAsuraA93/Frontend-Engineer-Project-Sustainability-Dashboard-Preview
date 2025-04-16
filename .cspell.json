@@ -1,0 +1,4 @@
+{
+    "words": ["chartjs", "papaparse", "sustainity"],
+    "ignorePaths": ["node_modules", "dist"]
+  }

@@ -1,0 +1,1 @@
+self.__REACT_LOADABLE_MANIFEST="{\"components/ChartView.tsx -> papaparse\":{\"id\":\"components/ChartView.tsx -> papaparse\",\"files\":[]},\"components/DataTable.tsx -> papaparse\":{\"id\":\"components/DataTable.tsx -> papaparse\",\"files\":[]}}"
